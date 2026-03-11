@@ -100,21 +100,6 @@ This allows users to observe farm conditions without being physically present.
 * **Embedded C / Arduino IDE** – firmware development
 * **ThingSpeak** – cloud data logging and visualization
 * **ESP32 WiFi connectivity** – IoT communication
-
----
-
-## Project Structure
-
-```
-Agroswamy/
-│
-├── firmware/        # ESP32 program files
-├── hardware/        # circuit diagrams and sensor connections
-├── images/          # project photos or system diagrams
-├── docs/            # presentations and documentation
-└── README.md
-```
-
 ---
 
 ## Project Goal
