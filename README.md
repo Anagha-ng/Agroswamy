@@ -80,21 +80,6 @@ This allows users to observe farm conditions without being physically present.
 
 ---
 
-## Hardware Components
-
-| Component             | Purpose                                      |
-| --------------------- | -------------------------------------------- |
-| ESP32 Microcontroller | Central processing and IoT connectivity      |
-| Soil Moisture Sensor  | Detects soil water content                   |
-| Temperature Sensor    | Monitors soil/environment temperature        |
-| Weather Sensors       | Monitor surrounding environmental conditions |
-| Camera Module         | Crop imaging                                 |
-| RC Car Platform       | Ground-level crop monitoring                 |
-| Relay Module          | Controls irrigation pump                     |
-| Water Pump / Valve    | Irrigation actuation                         |
-
----
-
 ## Software & Tools
 
 * **Embedded C / Arduino IDE** – firmware development
